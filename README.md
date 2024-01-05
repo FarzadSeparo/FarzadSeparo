@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://github.com/FarzadSeparo/11228/blob/b1fa0837cc60a2843ad1efc69efad6c27b75a623/lodo-taumaya.PNG" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Farzad Separo</h2>
  <p align="center">Welcome to README Farzad Separo</p>
 </p>
